@@ -2,6 +2,8 @@
 
 A modern, responsive marketing website for a technology solutions company. Built with HTML5, CSS3, and vanilla JavaScript.
 
+*OpenHands AI project created for session 7ff5375baec3469a857cc5775cd247a6*
+
 ## Features
 
 - **Responsive Design**: Fully responsive layout that works on all devices
